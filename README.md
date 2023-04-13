@@ -1,1 +1,1 @@
-# Collisions using forces instead of collsion detection
+# Collisions using forces instead of collision detection
